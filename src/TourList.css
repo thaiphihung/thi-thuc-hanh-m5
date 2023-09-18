@@ -1,0 +1,19 @@
+.button-link {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .edit-btn {
+    background-color: yellow;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .delete-btn {
+    background-color: red;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+ 
